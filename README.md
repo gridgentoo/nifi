@@ -1,3 +1,9 @@
+Оригинальный репозиторий NiFi
+https://github.com/apache/nifi
+
+Архитектура и Реверс инжинириг NiFi
+https://drive.google.com/drive/folders/1QPQEu33vnEUJ_Ji1BnSNyByXxuDtwxio
+
 <!--
   Licensed to the Apache Software Foundation (ASF) under one or more
   contributor license agreements.  See the NOTICE file distributed with
